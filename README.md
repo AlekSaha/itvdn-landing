@@ -22,3 +22,14 @@ https://www.npmjs.com/ (include in node)
 
 * Запустить команду npm install в терминале. Данная команда установит все пакеты, которые указаны
 в файле backege.json, а также все их зависимости
+
+# Git
+git status
+git add
+git commit -m "comment"
+git push
+git branch
+git checkout
+git merge
+
+# Gulp
